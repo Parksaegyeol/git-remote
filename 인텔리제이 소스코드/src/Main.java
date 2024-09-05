@@ -1,7 +1,7 @@
 public class Main {
 
     public static void main(String[] args) {
-        System.out.println("깃이랑 연동");
+        System.out.println("내용수정내용수정");
 
     }
 }
